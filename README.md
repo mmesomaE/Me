@@ -28,7 +28,7 @@ I'm a senior at university, majoring in Computer Science with minors in Mathemat
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mmesoma-ezeudu/)
-- *(Add your email or other social links here if you want)*
+- glory.ezeudu@gmail.com
 
 ---
 
@@ -36,9 +36,8 @@ I'm a senior at university, majoring in Computer Science with minors in Mathemat
 - Obsessed with solving puzzles and brain teasers
 - Love exploring new tech and frameworks
 - Enjoy collaborating on open-source and hackathons
+- horseback riding and archery
 
 ---
-
-<!--
-Want your favorite projects, certifications, or personal website featured here? Just let me know!
+### 🤩 Favourite projects
 -->
